@@ -790,6 +790,12 @@ a.reset_variations {
 	padding: 1em 0;
 }
 
+.woocommerce-cart {
+	.storefront-breadcrumb {
+		display: none;
+	}
+}
+
 .woocommerce-breadcrumb {
 	font-size: ms(-1);
 
